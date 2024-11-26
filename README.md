@@ -7,7 +7,7 @@
 For course project, Gym environment is [here](https://www.gymlibrary.dev/index.html)
 
 
-## Lab Project Presenters on Friday
+## Lab Project Presenters on Friday (Each member of the group must be in the class)
 
 1) 032190057, 032190017
 2) 032190085, 032090058
