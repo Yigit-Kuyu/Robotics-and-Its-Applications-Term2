@@ -15,3 +15,5 @@ For course project, Gym environment is [here](https://www.gymlibrary.dev/index.h
 4) 032090063, 032090027 (Done)
 5) 032190031, 032190081
 6) 031990099 (NotCome)
+7) 032190007, 032190046
+8) 032190098, 032190043
