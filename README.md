@@ -1,5 +1,7 @@
 ## Decision-Making in Robotics
 
+**NEW ANNOUNCEMENT!!:** Final exam results are [here](Final_exam_results.pdf)
+
 **ANNOUNCEMENT:** Final exam answers are [here](YcK_2024_guz_final_cevaplar.pdf)
 
 $~~~~~~~~~~~$
